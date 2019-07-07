@@ -18,4 +18,4 @@ e.g.
 
 
       
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/sahand92/arousal_analysis/blob/master/compare_X.png)
